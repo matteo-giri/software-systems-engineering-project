@@ -1,6 +1,6 @@
 # Distributed Application for a Storage Service
 This project was made for the exam of Software Systems Engineering at University of Bologna.
-It involves the development of a distributed application for the management of a fictious storage service by following the Agile metodology and SOLID principles.
+It involves the development of a distributed application for the management of a fictitious storage service by following the Agile metodology and SOLID principles.
 
 The task of this project can be found [here](html/TemaFinale23.html).
 
